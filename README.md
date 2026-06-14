@@ -29,11 +29,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitLab Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=annedonatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annedonatti&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://gitlab.com/annelize.donatti">
+    <img src="https://img.shields.io/badge/dynamic/json?color=FC6D26&label=Contribui%C3%A7%C3%B5es%20GitLab&query=contributions&url=https%3A%2F%2Fraw.githubusercontent.com%2Fannedonatti%2Fannedonatti%2Fmain%2Fgitlab-stats.json&logo=gitlab&style=for-the-badge&logoColor=white" alt="GitLab Contributions"/>
+  </a>
 </p>
 
 ---

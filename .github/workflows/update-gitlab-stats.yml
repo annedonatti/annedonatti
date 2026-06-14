@@ -1,0 +1,33 @@
+name: Update GitLab Stats
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch GitLab contributions
+        run: |
+          python3 -c "
+          import urllib.request, json
+          url = 'https://gitlab.com/users/annelize.donatti/calendar.json'
+          with urllib.request.urlopen(url) as r:
+              data = json.loads(r.read())
+          total = sum(data.values())
+          with open('gitlab-stats.json', 'w') as f:
+              json.dump({'contributions': total}, f)
+          print(f'Total contributions: {total}')
+          "
+
+      - name: Commit and push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add gitlab-stats.json
+          git diff --cached --quiet || git commit -m "chore: update GitLab stats"
+          git push
