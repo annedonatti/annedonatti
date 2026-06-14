@@ -1,21 +1,27 @@
-<h1 align="center">Olá, eu sou a Anne Donatti! 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FC6D26&height=160&section=header&text=Anne%20Donatti&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Florian%C3%B3polis%20%F0%9F%8C%8A&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  Software Engineer | Florianópolis, Brasil 🌊
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FC6D26&center=true&vCenter=true&width=500&lines=Software+Engineer+%40+Memed;Florian%C3%B3polis%2C+Brasil+%F0%9F%8C%8A;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ### Sobre mim
 
+<img align="right" src="https://app.rocketseat.com.br/api/rocketid/share?slug=annedonatti&type=card" width="260" alt="Annelize Donatti's Rocket ID"/>
+
 - 💼 Trabalho na [Memed](https://memed.com.br)
 - 📍 Florianópolis, SC
+- 🔗 [gitlab.com/annelize.donatti](https://gitlab.com/annelize.donatti)
 - 🚀 Sempre aprendendo e evoluindo
-- 🔗 GitLab: [gitlab.com/annelize.donatti](https://gitlab.com/annelize.donatti)
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,16 +37,10 @@
 
 ### 📊 GitLab Stats
 
-<p align="center">
-  <a href="https://gitlab.com/annelize.donatti">
-    <img src="https://img.shields.io/badge/dynamic/json?color=FC6D26&label=Contribui%C3%A7%C3%B5es%20GitLab&query=contributions&url=https%3A%2F%2Fraw.githubusercontent.com%2Fannedonatti%2Fannedonatti%2Fmain%2Fgitlab-stats.json&logo=gitlab&style=for-the-badge&logoColor=white" alt="GitLab Contributions"/>
-  </a>
-</p>
+<a href="https://gitlab.com/annelize.donatti">
+  <img src="https://img.shields.io/badge/dynamic/json?color=FC6D26&label=Contribui%C3%A7%C3%B5es%20GitLab&query=contributions&url=https%3A%2F%2Fraw.githubusercontent.com%2Fannedonatti%2Fannedonatti%2Fmain%2Fgitlab-stats.json&logo=gitlab&style=for-the-badge&logoColor=white" alt="GitLab Contributions"/>
+</a>
 
 ---
 
-### 🚀 Rocketseat
-
-<a href="https://app.rocketseat.com.br/me/annedonatti">
-  <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=annedonatti&type=card" width="280" alt="Annelize Donatti's Rocket ID"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FC6D26&height=120&section=footer"/>
