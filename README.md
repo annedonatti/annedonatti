@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou a Ana Donatti! 👋</h1>
+<h1 align="center">Olá, eu sou a Anne Donatti! 👋</h1>
 
 <p align="center">
-  Desenvolvedora | Florianópolis, Brasil 🌊
+  Software Engineer | Florianópolis, Brasil 🌊
 </p>
 
 ---
